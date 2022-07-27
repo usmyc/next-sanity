@@ -1,1 +1,1 @@
-# Next.js + Tailwind + Sanity.io
+# Next.js + Tailwind + Sanity.io using TypeScript
