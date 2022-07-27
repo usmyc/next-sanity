@@ -1,1 +1,1 @@
-# Next.js + Tailwind + Sanit.io
+# Next.js + Tailwind + Sanity.io
